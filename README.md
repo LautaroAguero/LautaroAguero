@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LautaroAguero and  i  am from argentina che   🇦🇷
-- 👀 I’m interested  in learn about frontend development
+- 👋 Hi, I’m @LautaroAguero 🇦🇷
+- 👀 challenging myself learning about frontend development technologies
 - 🌱 I’m currently learning  about React , Typescrypt and Node, i`m so exited  about it 
 - 💞️ I’m looking to collaborate on some proyects to learn about some fresh techs and gain some exp
 - 📫 Can contact me at my email lauta96aguero@gmail.com
