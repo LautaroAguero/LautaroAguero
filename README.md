@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @LautaroAguero 🇦🇷
-- 👀 challenging myself learning about frontend development technologies
-- 🌱 I’m currently learning  about React , Typescrypt and Node, i`m so exited  about it 
+- 👀 challenging myself learning about different development technologies
+- 🌱 I’m currently learning  about React ,Java and Node, i`m so exited  about it 
 - 💞️ I’m looking to collaborate on some proyects to learn about some fresh techs and gain some exp
 - 📫 Can contact me at my email lauta96aguero@gmail.com
+- 📚 Currently studying for University Degree in Programming
 
 <!---
 LautaroAguero/LautaroAguero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
