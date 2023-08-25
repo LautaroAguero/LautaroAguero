@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LautaroAguero 🇦🇷
-- 👀 challenging myself learning about different development technologies
-- 🌱 I’m currently learning  about React ,Java and Node, i`m so exited  about it 
+- 🧑‍🎓 currently persuing a technical degree in Programming
+- 👀 challenging myself learning about different development technologies 
+- 🌱 I’m currently learning  about C# ,Java and Node js, i`m so exited  about it 
 - 💞️ I’m looking to collaborate on some proyects to learn about some fresh techs and gain some exp
 - 📫 Can contact me at my email lauta96aguero@gmail.com
 - 📚 Currently studying for University Degree in Programming
