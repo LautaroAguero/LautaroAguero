@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Lautaro Aguero! 🇦🇷
+# 👋 Hola, mi nombre es Lautaro! 🇦🇷
 
-I'm a passionate developer, always challenging myself to learn about different development technologies.
+Desarrollador en proceso continuo. siempre desafiandome a aprender nuevas tecnologias y herramientas para el desarrollo
 
-## 🌱 What I'm Learning
+## 🌱 Que estoy aprendiendo
 
 - C#
 - Java
@@ -11,19 +11,18 @@ I'm a passionate developer, always challenging myself to learn about different d
 - MongoDB
 - Flutter 
 
-I'm really excited about these technologies and can't wait to build some amazing projects with them!
+## 💞️ Colaboracion
 
-## 💞️ Collaboration
-
-I'm looking to collaborate on projects to learn about fresh techs and gain some experience. If you have a project in mind and think I could contribute, don't hesitate to reach out!
+Busco colaborar en proyectos para aprender acerca de nuevas tecnologias y reforzar mis conocimientos, como asi tambien desarrollarme como profesional en el area.
+Si tienes un proyecto en mente y crees que puedo ayudarte no dudes en contactarme!
 
 ## 📫 Contact Me
 
-You can contact me at my email: [lauta96aguero@gmail.com](mailto:lauta96aguero@gmail.com)
+Puedes contactarme a mi email: [lauta96aguero@gmail.com](mailto:lauta96aguero@gmail.com)
 
 ## 📚 Education
 
-I'm currently pursuing a technical degree in Programming. Always learning, always growing!
+Estudiante avanzado en la Tecnicatura Universitaria en Programacion
 <!---
 LautaroAguero/LautaroAguero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
