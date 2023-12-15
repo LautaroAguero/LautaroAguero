@@ -20,7 +20,7 @@ Si tienes un proyecto en mente y crees que puedo ayudarte no dudes en contactarm
 
 Puedes contactarme a mi email: [lauta96aguero@gmail.com](mailto:lauta96aguero@gmail.com)
 
-## 📚 Education
+## 📚 Educacion
 
 Estudiante avanzado en la Tecnicatura Universitaria en Programacion
 <!---
