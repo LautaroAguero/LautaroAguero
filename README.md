@@ -2,7 +2,7 @@
 
 Desarrollador en proceso continuo. siempre desafiandome a aprender nuevas tecnologias y herramientas para el desarrollo
 
-## 🌱 Que estoy aprendiendo
+## 🌱 En que me estoy especializando
 
 - HTML
 - CSS
