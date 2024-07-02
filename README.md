@@ -4,12 +4,13 @@ Desarrollador en proceso continuo. siempre desafiandome a aprender nuevas tecnol
 
 ## 🌱 Que estoy aprendiendo
 
-- C#
-- Java
-- Node
-- React
+- HTML
+- CSS
+- Tailwind
 - MongoDB
-- Flutter 
+- Postman
+- Node
+- React 
 
 ## 💞️ Colaboracion
 
