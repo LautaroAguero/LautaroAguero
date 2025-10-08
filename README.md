@@ -13,9 +13,8 @@ Desarrollador de software con experiencia en la industria desde 2023. Tecnico un
 
 💡 **Experiencia con:**
 - Frontend: **ReactJS**, **NextJS**, **TailwindCSS**
-- Backend: **Node.js**, **Express**, **MongoDB**, **Mongoose**
+- Backend: **Node.js**, **Express**, **MongoDB**, **Mongoose**, **FastAPI**, **Beanie**
 - APIs REST, Context API, Redux, Hooks, Axios/fetch
-- Python (**FastAPI**, **Beanie**)
 
 🎯 **Fortalezas:**
 - Proactividad y resolución de problemas
